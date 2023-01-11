@@ -1,1 +1,1 @@
-console.log('GoodLuck!');
+AOS.init();
